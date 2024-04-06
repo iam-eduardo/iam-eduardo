@@ -1,6 +1,6 @@
-AA## 👋 Hello! Welcome to my Github profile.
+## 👋 Hello! Welcome to my Github profile.
 
-![Snake animation](https://github.com/iam-eduardo/iam-eduardo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iam-eduardo/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
