@@ -1,7 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-![Snake animation](https://github.com/iam-eduardo/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **iam-eduardo/iam-eduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
